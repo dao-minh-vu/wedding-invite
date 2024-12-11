@@ -2773,7 +2773,7 @@ a {
     #w-jphfgh54 {
         position: fixed;
         width: 400px;
-        height: 344px;
+        height: 655px;
     }
 
     #w-jphfgh54::-webkit-scrollbar {
@@ -2781,9 +2781,7 @@ a {
     }
 
     #w-jphfgh54 .popup-background {
-        background: rgba(161, 159, 155, 1);
-        border-color: #e5e7eb;
-        border-style: solid;
+        background: white;
     }
 
     #w-jipghioh {
@@ -2942,7 +2940,7 @@ a {
         -webkit-mask-image: url(data:image/svg+xml;base64,PHN2ZyBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSdub25lJyAgd2lkdGg9JzE0JyBoZWlnaHQ9JzE0JyB2aWV3Qm94PScwIDAgMTQgMTQnIGZpbGw9J25vbmUnIHhtbG5zPSdodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2Zyc+PHBhdGggZD0nTTEyLjU5IDBMNyA1LjU5TDEuNDEgMEwwIDEuNDFMNS41OSA3TDAgMTIuNTlMMS40MSAxNEw3IDguNDFMMTIuNTkgMTRMMTQgMTIuNTlMOC40MSA3TDE0IDEuNDFMMTIuNTkgMFonIGZpbGw9JyMyRTNBNTknLz48L3N2Zz4=);
         border-color: #e5e7eb;
         border-style: solid;
-        background: rgba(255, 255, 255, 1.000);
+        background: rgb(144, 39, 50);
     }
 
     #w-lnn6ld5m {
@@ -5431,7 +5429,7 @@ a {
     #w-jphfgh54 {
         position: fixed;
         width: 400px;
-        height: 344px;
+        height: 655px;
     }
 
     #w-jphfgh54::-webkit-scrollbar {
@@ -5439,9 +5437,7 @@ a {
     }
 
     #w-jphfgh54 .popup-background {
-        background: rgba(161, 159, 155, 1);
-        border-color: #e5e7eb;
-        border-style: solid;
+        background: white;
     }
 
     #w-jipghioh {
@@ -5600,7 +5596,7 @@ a {
         -webkit-mask-image: url(data:image/svg+xml;base64,PHN2ZyBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSdub25lJyAgd2lkdGg9JzE0JyBoZWlnaHQ9JzE0JyB2aWV3Qm94PScwIDAgMTQgMTQnIGZpbGw9J25vbmUnIHhtbG5zPSdodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2Zyc+PHBhdGggZD0nTTEyLjU5IDBMNyA1LjU5TDEuNDEgMEwwIDEuNDFMNS41OSA3TDAgMTIuNTlMMS40MSAxNEw3IDguNDFMMTIuNTkgMTRMMTQgMTIuNTlMOC40MSA3TDE0IDEuNDFMMTIuNTkgMFonIGZpbGw9JyMyRTNBNTknLz48L3N2Zz4=);
         border-color: #e5e7eb;
         border-style: solid;
-        background: rgba(255, 255, 255, 1.000);
+        background: rgb(144, 39, 50);
     }
 
     #w-lnn6ld5m {
