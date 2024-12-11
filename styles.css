@@ -1273,7 +1273,7 @@ a {
     }
 
     #w-libmqckf {
-        top: 23.00833511352539px;
+        top: 50px;
         left: -124px;
         perspective: 1000px;
         width: 560px;
@@ -1314,7 +1314,7 @@ a {
     }
 
     #w-xt9665eb {
-        top: 551px;
+        top: 651px;
         left: 131.5px;
         width: 254px;
         height: 30.000001907348633px;
@@ -1334,7 +1334,7 @@ a {
     }
 
     #w-nk5wr3l0 {
-        top: 573.2569236755371px;
+        top: 673px;
         left: 140.486083984375px;
         width: 236px;
         height: auto;
@@ -1348,7 +1348,7 @@ a {
     }
 
     #w-dqvmzi6o {
-        top: 593.25px;
+        top: 693px;
         left: 131.5px;
         width: 254px;
         height: 27.000001907348633px;
@@ -1370,14 +1370,10 @@ a {
     }
 
     #w-fohw3jt3 {
-        top: 623.2986106872559px;
+        top: 723px;
         left: 131.5px;
         width: 254px;
         height: 32.98125076293945px;
-    }
-
-    #w-fohw3jt3 .text-block {
-        background:;
     }
 
     #w-fohw3jt3 .text-block-css {
@@ -1393,7 +1389,7 @@ a {
     }
 
     #w-2wfccz0r {
-        top: 656.3263816833496px;
+        top: 750px;
         left: 140.5px;
         width: 236px;
         height: auto;
@@ -2952,7 +2948,7 @@ a {
     #w-lnn6ld5m {
         position: fixed;
         width: 400px;
-        height: 381px;
+        height: 700px;
     }
 
     #w-lnn6ld5m::-webkit-scrollbar {
@@ -2973,6 +2969,19 @@ a {
     }
 
     #w-5kqs86mp .rectangle-css {
+        border-color: rgba(229, 231, 235, 1);
+        border-style: solid;
+        background: rgba(144, 39, 50, 1);
+    }
+
+    #w-5kqs86mp1 {
+        top: 386px;
+        left: 85px;
+        width: 230px;
+        height: 227px;
+    }
+
+    #w-5kqs86mp1 .rectangle-css {
         border-color: rgba(229, 231, 235, 1);
         border-style: solid;
         background: rgba(144, 39, 50, 1);
@@ -3036,21 +3045,24 @@ a {
         z-index: null;
     }
 
-    #w-pexrqwr6 .image-background {
-        width: 333.99843749999997px;
-        height: 702px;
-        top: -183px;
-        left: -66.30952380952384px;
-        background: center center/ cover no-repeat scroll content-box border-box url("https://content.pancake.vn/1/s668x1404/fwebp/e2/7f/58/93/8c37132ee99d56a5873a468f256b808ffc16090c9ab03da60f90bee5.jpg");
-    }
-
-    #w-pexrqwr6 .image-background.fb {
-        background: center center/ cover no-repeat scroll content-box border-box url("https://content.pancake.vn/1/s668x1404/fpng/e2/7f/58/93/8c37132ee99d56a5873a468f256b808ffc16090c9ab03da60f90bee5.jpg");
-    }
-
     #w-pexrqwr6 .image-background-compare {
         background: undefined;
         clip: rect(0, 100px, 198px, 0);
+    }
+
+    #w-pexrqwr61 {
+        top: 400px;
+        left: 100.00567626953125px;
+        width: 200px;
+        height: 198px;
+    }
+
+    #w-pexrqwr61 .image-block-css {
+        border-color: rgba(229, 231, 235, 1);
+        border-style: solid;
+        border-width: 0px;
+        position: absolute;
+        z-index: null;
     }
 
     #w-ee047w8y {
@@ -3060,11 +3072,23 @@ a {
         height: 51px;
     }
 
-    #w-ee047w8y .text-block {
-        background:;
+    #w-ee047w8y1 {
+        top: 621px;
+        left: 22px;
+        width: 356px;
+        height: 51px;
     }
 
     #w-ee047w8y .text-block-css {
+        border-color: rgba(229, 231, 235, 1);
+        border-style: solid;
+        font-family: 'Arial', sans-serif;
+        font-size: 17px;
+        font-weight: bold;
+        text-align: center;
+    }
+
+    #w-ee047w8y1 .text-block-css {
         border-color: rgba(229, 231, 235, 1);
         border-style: solid;
         font-family: 'Arial', sans-serif;
@@ -3907,7 +3931,7 @@ a {
     }
 
     #w-libmqckf {
-        top: 23.00833511352539px;
+        top: 50px;
         left: -124px;
         perspective: 1000px;
         width: 560px;
@@ -3948,7 +3972,7 @@ a {
     }
 
     #w-xt9665eb {
-        top: 551px;
+        top: 651px;
         left: 131.5px;
         width: 254px;
         height: 30.000001907348633px;
@@ -3968,7 +3992,7 @@ a {
     }
 
     #w-nk5wr3l0 {
-        top: 573.2569236755371px;
+        top: 673px;
         left: 140.486083984375px;
         width: 236px;
         height: auto;
@@ -3982,7 +4006,7 @@ a {
     }
 
     #w-dqvmzi6o {
-        top: 593.25px;
+        top: 693px;
         left: 131.5px;
         width: 254px;
         height: 27.000001907348633px;
@@ -4004,14 +4028,10 @@ a {
     }
 
     #w-fohw3jt3 {
-        top: 623.2986106872559px;
+        top: 723px;
         left: 131.5px;
         width: 254px;
         height: 32.98125076293945px;
-    }
-
-    #w-fohw3jt3 .text-block {
-        background:;
     }
 
     #w-fohw3jt3 .text-block-css {
@@ -4027,7 +4047,7 @@ a {
     }
 
     #w-2wfccz0r {
-        top: 656.3263816833496px;
+        top: 750px;
         left: 140.5px;
         width: 236px;
         height: auto;
@@ -5586,7 +5606,7 @@ a {
     #w-lnn6ld5m {
         position: fixed;
         width: 400px;
-        height: 381px;
+        height: 700px;
     }
 
     #w-lnn6ld5m::-webkit-scrollbar {
@@ -5607,6 +5627,19 @@ a {
     }
 
     #w-5kqs86mp .rectangle-css {
+        border-color: rgba(229, 231, 235, 1);
+        border-style: solid;
+        background: rgba(144, 39, 50, 1);
+    }
+
+    #w-5kqs86mp1 {
+        top: 386px;
+        left: 85px;
+        width: 230px;
+        height: 227px;
+    }
+
+    #w-5kqs86mp1 .rectangle-css {
         border-color: rgba(229, 231, 235, 1);
         border-style: solid;
         background: rgba(144, 39, 50, 1);
@@ -5670,21 +5703,24 @@ a {
         z-index: null;
     }
 
-    #w-pexrqwr6 .image-background {
-        width: 333.99843749999997px;
-        height: 702px;
-        top: -183px;
-        left: -66.30952380952384px;
-        background: center center/ cover no-repeat scroll content-box border-box url("https://content.pancake.vn/1/s668x1404/fwebp/e2/7f/58/93/8c37132ee99d56a5873a468f256b808ffc16090c9ab03da60f90bee5.jpg");
-    }
-
-    #w-pexrqwr6 .image-background.fb {
-        background: center center/ cover no-repeat scroll content-box border-box url("https://content.pancake.vn/1/s668x1404/fpng/e2/7f/58/93/8c37132ee99d56a5873a468f256b808ffc16090c9ab03da60f90bee5.jpg");
-    }
-
     #w-pexrqwr6 .image-background-compare {
         background: undefined;
         clip: rect(0, 100px, 198px, 0);
+    }
+
+    #w-pexrqwr61 {
+        top: 400px;
+        left: 100.00567626953125px;
+        width: 200px;
+        height: 198px;
+    }
+
+    #w-pexrqwr61 .image-block-css {
+        border-color: rgba(229, 231, 235, 1);
+        border-style: solid;
+        border-width: 0px;
+        position: absolute;
+        z-index: null;
     }
 
     #w-ee047w8y {
@@ -5694,11 +5730,23 @@ a {
         height: 51px;
     }
 
-    #w-ee047w8y .text-block {
-        background:;
+    #w-ee047w8y1 {
+        top: 621px;
+        left: 22px;
+        width: 356px;
+        height: 51px;
     }
 
     #w-ee047w8y .text-block-css {
+        border-color: rgba(229, 231, 235, 1);
+        border-style: solid;
+        font-family: 'Arial', sans-serif;
+        font-size: 17px;
+        font-weight: bold;
+        text-align: center;
+    }
+
+    #w-ee047w8y1 .text-block-css {
         border-color: rgba(229, 231, 235, 1);
         border-style: solid;
         font-family: 'Arial', sans-serif;
